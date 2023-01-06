@@ -1,0 +1,57 @@
+.multiplayer-detail {
+    width: 100%;
+    padding: 1vh;
+    padding-top: 2vh;
+    height: 88vh;
+}
+
+.multiplayer-input {
+    color: white;
+    padding: 1vh;
+    background-color: transparent;
+}
+
+.multiplayer-detail-div {
+    display: flex;
+    margin-top: 2vh;
+}
+
+.friends-accounts {
+    font-size: xx-large;
+    height: 70vh;
+    overflow: scroll;
+}
+
+.friends-accounts p {
+    margin-top: 1vh;
+}
+
+.friends-accounts-icon {
+    margin-left: auto;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+}
+
+.friend-account {
+    display: flex;
+}
+
+.friend-request {
+    padding:0.5vh;
+    padding-top:1vh;
+}
+
+.friend-request p {
+    margin-top:0.5vh
+}
+
+.friend-request-btn {
+    margin-left: 1vh;
+}
+
+.lobby-btn {
+    margin-left: 2vh;
+}

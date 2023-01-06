@@ -1,0 +1,51 @@
+.start-page {
+    height: 100vh;
+}
+.start-ctx {
+    text-align: center;
+    margin: 3vh;
+    padding:10px;
+    min-height:50vh;
+    display:flex;
+    flex-direction: column;
+}
+
+.start-button {
+    border: 5px solid silver;
+    border-radius: 20px;
+    padding: 8px;
+    margin-top:20px;
+    font-size: x-large;
+    color: white;
+    font-weight: 550;
+    background-color: rgb(52, 124, 153);
+    white-space:nowrap;
+    display: flex;
+    width: 100%;
+    overflow: hidden
+}
+
+.start-logo {
+    display:flex;
+    padding-top: 2px;
+    justify-content: center;
+    text-align: center;
+}
+
+.start-logo h2 {
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    white-space: nowrap;
+    padding-left: 2px;
+    padding-right:1px;
+    font-weight: 800;
+}
+
+.start-btn-icon {
+    display:flex;
+    color: skyblue;
+    margin-top: 7px;
+    margin-left: auto;
+    margin-right: 10px;
+}
